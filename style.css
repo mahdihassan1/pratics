@@ -1,0 +1,95 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif; */
+margin: auto;
+}
+h1{
+    font-size: 30px;
+}
+.red{
+    color: red;
+}
+
+.cultur-bd{
+    display: flex;
+    background-image:url(istockphoto-1135487410-612x612.jpg);
+    background-repeat: no-repeat;
+    
+}
+.cultur{
+    width:50%;
+    margin-left: 40px;
+    margin-right: 20px;
+    background-color:rgb(184 190 181 / 17%);
+    font-size: larger;
+    border-radius: 20px;
+}
+.cultur-img{
+    width: 40%;
+    padding:5%;
+
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,rgb(255, 230, 0));
+    font-size: 25px;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cultur-details{
+    display:flex
+}
+.half-width{
+    width: 33%;
+    height: 400px;
+    margin-right: 10px;
+    margin-left: 20px;        
+    border-radius:10px;     
+    box-shadow: 10px 10px 40px gray;
+    /* border: px solid; */
+    margin-bottom: 40px;
+text-align: center;
+
+}
+/* .half-width2{
+width:33%;
+margin-right: 10px;
+margin-left: 10px;
+}
+.half-width3{
+    width: 33%;
+    margin-right: 10px;
+    margin-left: 10px;
+} */
+.img{
+    padding-left:15px;
+    height: 200px;
+    width: 300px;
+}
+.img-1{
+    width: 250px;
+    height: 200px;
+}
+#h{
+    text-align: center;
+    color: crimson;
+}
+#h-1{
+    text-align: center;
+    color: yellow;
+}
+#h-2{
+    text-align: center;
+    color: tomato;
+}
+#h-3{
+    text-align: center;
+    color: chartreuse;
+} 
+.second{
+    margin-left: 20%;
+}
+#footer{
+    text-align: center;
+}
